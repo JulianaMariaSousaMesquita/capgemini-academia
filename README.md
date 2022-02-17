@@ -60,15 +60,19 @@ Saída:
 
 ### Offline
 1. [Clone o repositório](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
+
 2. Abra o "Prompt de Comando" ou "Terminal". O método de acesso é diferente para o Mac e Windows:
   2.1. Windows: clique no botão Iniciar e digite cmd. Pressione ↵ Enter para abrir o "Prompt de Comando".
   2.2. Mac: no Finder, clique na aba Go, selecione Aplicações, depois Utilidades e por fim Terminal.
+
 3. Verifique se o Java está instalado. Digite java -version na linha de comando. Se o Java estiver instalado, você verá uma mensagem mostrando qual a versão dele está instalada.
   3.1. Se isso não acontecer, será necessário [acessar o site do Java e baixar o Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/)
+
 4.Vá até a pasta correta do repositório. Use o comando cd seguido pelo nome da pasta de destino para sair do diretório atual.
-Por exemplo, se você estiver no diretório C:\Users\Bob\Project e quiser acessar a pasta C:\Users\Bob\Project\TitanProject , digite cd TitanProject e pressione ↵ Enter.
-Para mostrar uma lista com todos os arquivos e pastas do diretório atual, digite dir no Windows ou ls no Mac e pressione ↵ Enter.
+Por exemplo, se você estiver no diretório C:\Users\Bob\Project e quiser acessar a pasta C:\Users\Bob\Project\TitanProject , digite cd TitanProject e pressione ↵ Enter. Para mostrar uma lista com todos os arquivos e pastas do diretório atual, digite dir no Windows ou ls no Mac e pressione ↵ Enter.
+
 5. Compile o programa. Após chegar ao diretório correto, você poderá compilar o arquivo digitando javac arquivo.java na linha de comando e pressionando ↵ Enter.
+
 6. Execute o programa. Digite java arquivo e pressione ↵ Enter. Lembre-se de que você deve trocar "arquivo" pelo nome do arquivo do seu programa.
 
   
