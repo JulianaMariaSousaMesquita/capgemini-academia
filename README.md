@@ -12,7 +12,7 @@ Entrada:
 n = 6
 
 Saída:
-![](https://github.com/JulianaMariaSousaMesquita/DESAFIO-ACADEMIA-CAPGEMINI/saida01.png)
+![](https://github.com/JulianaMariaSousaMesquita/DESAFIO-ACADEMIA-CAPGEMINI/blob/main/saida01.png)
 
 
 ### Questão 02
